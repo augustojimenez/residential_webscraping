@@ -1,0 +1,64 @@
+---
+title: "EDA: Housing Bella Vista, Santo Domingo"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r importing-data}
+library(ggplot2)
+housing <- readRDS("../data/housing.rds") %>%
+    filter(id != "/apartamentos-venta-bella-vista/1232966/")
+housing[housing$id == "/apartamentos-venta-bella-vista/1233305/", "price"] = 7800000
+housing[housing$id == "/apartamentos-venta-bella-vista/1233305/", "price.usd"] = 7800000/58.5
+housing[housing$id == "/apartamentos-venta-bella-vista-norte/1208666/", "currency"] = "US$"
+housing[housing$id == "/apartamentos-venta-bella-vista-norte/1208666/", "price.usd"] = 180000
+```
+
+```{r}
+housing <- housing %>%
+    mutate(price.usd = price.usd/1000)
+```
+
+```{r}
+housing %>%
+    ggplot(aes(y = price.usd, x = area)) +
+    geom_point() +
+    geom_smooth(method = "lm")
+
+housing %>%
+    ggplot(aes(y = price.usd, fill = lift)) +
+    geom_boxplot() +
+    facet_grid(cols = vars(pool))
+
+housing %>%
+    ggplot(aes(log(price.usd))) +
+    geom_histogram()
+```
+
+```{r}
+housing$log.price = log(housing$price.usd)
+housing$area2 <- housing$area^2
+housing$balcon.terraza <- housing$balcon | housing$terraza
+lm.fit = with(housing, lm(price.usd ~ area + area2 + parking*area + bedrooms*area + pool + gimnasio + balcon*area))
+summary(lm.fit)
+
+lm.fit2 = with(housing, lm(price.usd ~ area + area*bedrooms + parking*area + lobby + pool + gimnasio + story + balcon))
+summary(lm.fit2)
+
+torre <- read.csv("../source/Torre Carmen I.csv") %>%
+    mutate(area2 = total.area^2,
+           balcon = TRUE) %>%
+    select(total.area, area2, bedrooms, parking, pool, gimnasio, balcon) %>%
+    rename(area = total.area) %>%
+    mutate(pool = as.logical(pool),
+           gimnasio = as.logical(gimnasio))
+torre
+predictions <- predict(lm.fit, data.frame(area = 104, area2 = 10816, parking = 2, bedrooms = 2, pool = TRUE, gimnasio = TRUE, balcon = TRUE), interval = "prediction")
+write.csv(predictions, "./data.csv")
+mean(housing$price.usd)
+sd(housing$price.usd)
+```
+
