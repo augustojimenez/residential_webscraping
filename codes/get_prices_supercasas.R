@@ -1,10 +1,9 @@
 library(dplyr)
 library(readr)
 library(rvest)
-library(xml2)
 library(stringi)
 
-hora_inicio <- Sys.time()
+start_time <- Sys.time()
 # Base URL for searching within the web page
 base.url <- c("https://www.supercasas.com/buscar/?do=1&ObjectType=",
               "&Locations=",
@@ -14,7 +13,6 @@ base.url <- c("https://www.supercasas.com/buscar/?do=1&ObjectType=",
 # Search parameters
 object.type <- 123 # Apartamento
 locations <- "226,350" # 226 = Bella Vista; 350 = Bella Vista Norte
-# 226%2c350 = 226,350
 price.type <- 400
 
 # number of listings
@@ -30,12 +28,14 @@ no.listing <- parse_number(html_text(html_nodes(read_html(paste0(base.url[1],
 # number of pages. Note: there are 24 listings per page
 max.pages <- round(no.listing/24 - 1)
 
+choices <- c("habitaciones", "parqueos", "baños")
+
 df <- data.frame(id = as.numeric(),
                  parking = as.character(),
                  bathrooms = as.character(),
                  bedrooms = as.character(),
                  price = as.character(),
-                 #seller = as.character(),
+                 seller = as.character(),
                  location = as.character(),
                  status = as.character(),
                  area = as.character(),
@@ -68,6 +68,7 @@ for(page in 0:max.pages){
   
   listing.id <- character()
   enlaces <- character()
+  
   for(i in 1:length(links)){
     listing.id[i] <- substr(links[i], 10, ending.points[[i]][1]-2)
     enlaces[i] <- paste0("https://www.supercasas.com",
@@ -75,45 +76,36 @@ for(page in 0:max.pages){
   }
   
   for(i in 1:length(enlaces)) {
-    print(paste("Page:", page, ". Listing", i))
+    print(paste("Page:", page, ". Listing", i, ". ID:", listing.id[i]))
     listings_data <- read_html(enlaces[i])
     
-    which <- length(html_text(html_nodes(listings_data,
-                                         xpath = '//*[@id="detail-ad-info-specs"]/div[3]/div[3]/span')))
-    if(which) {
-      parking.div = 3
-      bedrooms.div = 1
-      # Bathrooms
-      bathrooms <- html_text(html_nodes(listings_data, 
-                                        xpath = paste('//*[@id="detail-ad-info-specs"]/div[3]/div[',
-                                                      2,
-                                                      ']/span')))
-      if(length(bathrooms) == 0) bathrooms = NA
-    } else {
-      parking.div = 2
-      bedrooms.div = 1
-      bathrooms <- NA
+    bedrooms <- parking <- bathrooms <- NA
+    
+    for(j in 1:3){
+      div <- html_text(html_nodes(listings_data,
+                                  xpath = paste0('//*[@id="detail-ad-info-specs"]/div[3]/div[', 
+                                                 j,
+                                                 ']/span')))
+      which <- which(stri_detect_fixed(div, choices))
+      if(length(which) == 0){
+        next
+      } else if(which == 1){
+        bedrooms <- div
+      } else if(which == 2){
+        parking <- div
+      } else if(which == 3){
+        bathrooms <- div
+      }
     }
-    parking <- html_text(html_nodes(listings_data, 
-                                    xpath = paste('//*[@id="detail-ad-info-specs"]/div[3]/div[',
-                                                  parking.div,
-                                                  ']/span')))
-    if(length(parking) == 0) parking = NA
-    bedrooms <- html_text(html_nodes(listings_data, 
-                                     xpath = paste('//*[@id="detail-ad-info-specs"]/div[3]/div[',
-                                                   bedrooms.div,
-                                                   ']/span')))
-    if(length(bedrooms) == 0) bedrooms = NA
     price <- html_text(html_nodes(listings_data, 
                                   "#detail-ad-header > h3"))
-    #seller <- html_text(html_nodes(listings_data, 
-    #                               "#detail-right > h3"))
+    seller <- html_text(html_nodes(listings_data, 
+                                   "#detail-right > h3"))[1]
     location <- html_table(listings_data)[[1]][1, 2]
     status <- html_table(listings_data)[[1]][2, 2]
     area <- html_table(listings_data)[[1]][3, 2]
     usage <- html_table(listings_data)[[1]][2, 4]
     story <- html_table(listings_data)[[1]][4, 2]
-    
     comodidades <- html_text(html_nodes(listings_data,
                                         '#detail-ad-info-specs > div:nth-child(6)'))
     
@@ -136,6 +128,7 @@ for(page in 0:max.pages){
                                bathrooms,
                                bedrooms,
                                price,
+                               seller,
                                location,
                                status,
                                area,
@@ -163,11 +156,11 @@ df <- tidyr::separate(df, price, c("currency", "price"), sep = " ") %>%
          area = parse_number(area),
          area = ifelse(area == 0, NA, area),
          story = ifelse(story == 0, NA, parse_number(story)),
-         status = ifelse(status == "N/D", NA, as.factor(status))) %>%
+         status = ifelse(status == "N/D", NA, status),
+         status = as.factor(status)) %>%
   as_tibble()
 
 saveRDS(df, file = "./data/housing.rds")
 print("data saved in 'data' dirtectory")
-hora_final <- Sys.time()
-print(hora_final - hora_inicio)
-rm(list = ls())
+end_time <- Sys.time()
+print(end_time - start_time)
