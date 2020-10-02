@@ -9,56 +9,106 @@ Try executing this chunk by clicking the *Run* button within the chunk or by pla
 
 ```{r importing-data}
 library(ggplot2)
+library(dplyr)
 housing <- readRDS("../data/housing.rds") %>%
-    filter(id != "/apartamentos-venta-bella-vista/1232966/")
-housing[housing$id == "/apartamentos-venta-bella-vista/1233305/", "price"] = 7800000
-housing[housing$id == "/apartamentos-venta-bella-vista/1233305/", "price.usd"] = 7800000/58.5
-housing[housing$id == "/apartamentos-venta-bella-vista-norte/1208666/", "currency"] = "US$"
-housing[housing$id == "/apartamentos-venta-bella-vista-norte/1208666/", "price.usd"] = 180000
-```
-
-```{r}
-housing <- housing %>%
+    filter(id != "/apartamentos-venta-bella-vista/1228951/",
+           id != "/apartamentos-venta-bella-vista/1229552/",
+           id != "/apartamentos-venta-bella-vista/1226706/",
+           id != "/apartamentos-venta-bella-vista/1211605/",
+           id != "/apartamentos-venta-bella-vista-norte/1205999/") %>%
     mutate(price.usd = price.usd/1000)
+# incorrect currency
+housing[housing$id == "/apartamentos-venta-bella-vista/1232966/", "currency"] = "RD$"
+housing[housing$id == "/apartamentos-venta-bella-vista/1232966/", "price.usd"] = 4700/58.5
+housing[housing$id == "/apartamentos-venta-bella-vista/1234385/", "currency"] = "RD$"
+housing[housing$id == "/apartamentos-venta-bella-vista/1234385/", "price.usd"] = 7200/58.5
+housing[housing$id == "/apartamentos-venta-bella-vista-norte/1208666/", "currency"] = "US$"
+housing[housing$id == "/apartamentos-venta-bella-vista-norte/1208666/", "price.usd"] = 180
 ```
 
 ```{r}
 housing %>%
     ggplot(aes(y = price.usd, x = area)) +
     geom_point() +
-    geom_smooth(method = "lm")
+    geom_smooth()
 
 housing %>%
     ggplot(aes(y = price.usd, fill = lift)) +
-    geom_boxplot() +
-    facet_grid(cols = vars(pool))
+    geom_boxplot()
 
 housing %>%
-    ggplot(aes(log(price.usd))) +
-    geom_histogram()
+    ggplot(aes(y = price.usd, fill = pool)) +
+    geom_boxplot()
+
+housing %>%
+    ggplot(aes(y = price.usd, fill = gimnasio)) +
+    geom_boxplot()
 ```
 
 ```{r}
-housing$log.price = log(housing$price.usd)
-housing$area2 <- housing$area^2
-housing$balcon.terraza <- housing$balcon | housing$terraza
-lm.fit = with(housing, lm(price.usd ~ area + area2 + parking*area + bedrooms*area + pool + gimnasio + balcon*area))
-summary(lm.fit)
+set.seed(123)
+`%nin%` <- Negate(`%in%`)
+housing <- housing %>%
+    mutate(area2 = area^2,
+           area.bedroom = area/bedrooms) %>%
+    filter(area <= 600)
 
-lm.fit2 = with(housing, lm(price.usd ~ area + area*bedrooms + parking*area + lobby + pool + gimnasio + story + balcon))
+train <- sample(1:nrow(housing),
+                 round(nrow(housing)) * 0.7)
+test <- 1:nrow(housing) %nin% train
+
+housing.train <- housing[train,]
+housing.test <- housing[test,]
+
+# Model 1
+lm.fit1 = lm(formula = price.usd ~ area + area2 + parking + pool + gimnasio + balcon*area + 0,
+             data = housing.train)
+summary(lm.fit1)
+
+# Model 2
+lm.fit2 = lm(formula = log(price.usd) ~ area + parking + bedrooms + area*bathrooms + pool + gimnasio + balcon*area + 0,
+             data = housing.train)
 summary(lm.fit2)
 
-torre <- read.csv("../source/Torre Carmen I.csv") %>%
-    mutate(area2 = total.area^2,
-           balcon = TRUE) %>%
-    select(total.area, area2, bedrooms, parking, pool, gimnasio, balcon) %>%
-    rename(area = total.area) %>%
-    mutate(pool = as.logical(pool),
-           gimnasio = as.logical(gimnasio))
-torre
-predictions <- predict(lm.fit, data.frame(area = 104, area2 = 10816, parking = 2, bedrooms = 2, pool = TRUE, gimnasio = TRUE, balcon = TRUE), interval = "prediction")
-write.csv(predictions, "./data.csv")
-mean(housing$price.usd)
-sd(housing$price.usd)
-```
+# Model 3
+lm.fit3 = lm(formula = price.usd ~ area + parking + pool + gimnasio + 0,
+             data = housing.train)
+summary(lm.fit3)
 
+# Model 4
+lm.fit4 = lm(formula = log(price.usd) ~ area + area2 + area*parking + area.bedroom + pool + gimnasio + balcon*area + 0,
+             data = housing.train)
+summary(lm.fit4)
+
+# Evaluating fits
+housing.test <- housing.test %>%
+    mutate(fit1 = predict(lm.fit1, housing.test, interval = "confidence"),
+           fit2 = exp(predict(lm.fit2, housing.test, interval = "confidence")),
+           fit3 = predict(lm.fit3, housing.test, interval = "confidence"),
+           fit4 = exp(predict(lm.fit4, housing.test, interval = "confidence")),
+           er1 = (fit1 - price.usd)^2,
+           er2 = (fit2 - price.usd)^2,
+           er3 = (fit3 - price.usd)^2,
+           er4 = (fit4 - price.usd)^2) %>%
+    summarise(er1 = sum(er1, na.rm = TRUE),
+              er2 = sum(er2, na.rm = TRUE),
+              er3 = sum(er3, na.rm = TRUE),
+              er4 = sum(er4, na.rm = TRUE)) %>%
+    mutate(er1 = sqrt(er1),
+           er2 = sqrt(er2),
+           er3 = sqrt(er3),
+           er4 = sqrt(er4))
+
+torre <- read.csv("../source/Torre Carmen I.csv") %>%
+    select(total.area, parking, bedrooms, pool, gimnasio, lobby, story) %>%
+    rename(area = total.area) %>%
+    mutate(area2 = area^2,
+           balcon = TRUE,
+           lobby = as.logical(lobby),
+           pool = as.logical(pool),
+           gimnasio = as.logical(gimnasio),
+           status = 1,
+           price.usd = predict(lm.fit3, torre, interval = "confidence") * 1000)
+write.csv(torre, "../data/precios.csv")
+# Check variance inflation factor (VIF)
+```
