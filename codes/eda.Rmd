@@ -107,8 +107,8 @@ torre <- read.csv("../source/Torre Carmen I.csv") %>%
            lobby = as.logical(lobby),
            pool = as.logical(pool),
            gimnasio = as.logical(gimnasio),
-           status = 1,
-           price.usd = predict(lm.fit3, torre, interval = "confidence") * 1000)
+           status = 1) %>%
+    mutate(price.usd = predict(lm.fit3, torre, interval = "confidence") * 1000)
 write.csv(torre, "../data/precios.csv")
 # Check variance inflation factor (VIF)
 ```
