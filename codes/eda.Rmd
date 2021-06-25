@@ -28,20 +28,20 @@ housing[housing$id == "/apartamentos-venta-bella-vista-norte/1208666/", "price.u
 
 ```{r}
 housing %>%
-    ggplot(aes(y = price.usd, x = area)) +
+    ggplot(aes(y = log(price.usd), x = area)) +
     geom_point() +
     geom_smooth()
 
 housing %>%
-    ggplot(aes(y = price.usd, fill = lift)) +
+    ggplot(aes(y = log(price.usd), fill = lift)) +
     geom_boxplot()
 
 housing %>%
-    ggplot(aes(y = price.usd, fill = pool)) +
+    ggplot(aes(y = log(price.usd), fill = pool)) +
     geom_boxplot()
 
 housing %>%
-    ggplot(aes(y = price.usd, fill = gimnasio)) +
+    ggplot(aes(y = log(price.usd), fill = gimnasio)) +
     geom_boxplot()
 ```
 
