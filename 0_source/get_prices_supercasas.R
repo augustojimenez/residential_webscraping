@@ -3,6 +3,8 @@ library(readr)
 library(rvest)
 library(stringi)
 
+date <- Sys.Date()
+
 # Base URL for searching within the web page
 base.url <- c("https://www.supercasas.com/buscar/?do=1&ObjectType=",
               "&Locations=",
@@ -34,7 +36,8 @@ max.pages <- round(no.listing/24)
 choices <- c("habitaciones", "parqueos", "baños")
 
 # Empty data frame to store data
-df <- data.frame(id = as.numeric(),
+df <- data.frame(date = as.Date(),
+                 id = as.numeric(),
                  parking = as.character(),
                  bathrooms = as.character(),
                  bedrooms = as.character(),
@@ -137,7 +140,8 @@ for(page in 0:max.pages){
       gimnasio <- stri_detect_fixed(comodidades, "Gimnasio")
     }
     
-    df <- rbind(df, data.frame(id = listing.id[i],
+    df <- rbind(df, data.frame(date = date,
+                               id = listing.id[i],
                                parking,
                                bathrooms,
                                bedrooms,
@@ -179,8 +183,8 @@ df <- tidyr::separate(df,
          status = as.factor(status)) %>%
   as_tibble()
 
-saveRDS(df2, file = paste0("./1_data/1_processed/housing_",
-                           as.character(Sys.Date()),
+saveRDS(df2, file = paste0("./1_data/0_raw/housing_",
+                           date,
                            ".rds"))
 
 print("File was successfully saved.")
