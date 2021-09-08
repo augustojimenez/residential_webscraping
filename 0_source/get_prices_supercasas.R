@@ -183,8 +183,8 @@ df <- tidyr::separate(df,
          status = as.factor(status)) %>%
   as_tibble()
 
-saveRDS(df2, file = paste0("./1_data/0_raw/housing_",
-                           date,
-                           ".rds"))
+write.csv(df2, file = paste0("./1_data/0_raw/housing_",
+                             date,
+                             ".csv"))
 
 print("File was successfully saved.")
