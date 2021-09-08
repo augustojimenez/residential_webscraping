@@ -52,4 +52,4 @@ df <- df %>%
     filter(description != "Todos los sectores") %>%
     distinct(id, .keep_all = TRUE)
 
-write.csv("./1_data/0_raw/neighborhoods.csv")
+write.csv(df, "./1_data/0_raw/neighborhoods.csv",  row.names = FALSE)
