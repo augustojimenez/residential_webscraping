@@ -1,0 +1,3 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-02-10,"/apartamentos-venta-arroyo-hondo,-cuesta-hermosa-iii,-isabel-villas/1238391/",2,2,3,RD$,5300000,Tu Casa RD,Arroyo Hondo, Cuesta Hermosa III, Isabel villas,Segundo Uso,170,Residencial,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,90598.2905982906
+2022-02-10,"/apartamentos-venta-arroyo-hondo,-cuesta-hermosa-iii,-isabel-villas/1221153/",2,3.5,3,US$,244000,New Home Constructora Inmobiliaria,Arroyo Hondo, Cuesta Hermosa III, Isabel villas,En Construcción,160,Residencial,NA,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,244000

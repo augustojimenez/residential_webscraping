@@ -1,0 +1,4 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-03-22,/apartamentos-venta-panorama/1273920/,1,1.5,1,US$,195000,Vetas Soluciones Inmobiliarias,Panorama, Santiago, Santiago de los Caballeros,Nueva,68,Residencial,8,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,195000
+2022-03-22,/apartamentos-venta-panorama/1267247/,NA,1,1,US$,111605,Seekers Inmobiliaria,Panorama, Santiago, Santiago de los Caballeros,En Construcción,66,Residencial,7,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,111605
+2022-03-22,/apartamentos-venta-panorama/1267248/,NA,3.5,3,US$,425000,Seekers Inmobiliaria,Panorama, Santiago, Santiago de los Caballeros,En Construcción,250,Residencial,3,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,425000

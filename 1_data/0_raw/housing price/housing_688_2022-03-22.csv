@@ -1,0 +1,6 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-03-22,/apartamentos-venta-veron/1267945/,1,1,1,US$,45000,Mr. Home Asesores Inmobiliarios,Verón, Bávaro, Punta Cana,Nueva,40,Residencial,2,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,45000
+2022-03-22,/apartamentos-venta-veron/1250905/,1,1.5,1,US$,66900,Tu Casa RD,Verón, Bávaro, Punta Cana,En Construcción,46,Residencial,6,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,66900
+2022-03-22,/apartamentos-venta-veron/1236104/,1,1.5,1,US$,65000,Marrero Luxury,Verón, Bávaro, Punta Cana,Nueva,72,Residencial,2,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,65000
+2022-03-22,/apartamentos-venta-veron/1272707/,1,2,2,US$,68800,Plusval Puente Azul,Verón, Bávaro, Punta Cana,Nueva,56,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,68800
+2022-03-22,/apartamentos-venta-veron/1267352/,1,3,3,US$,108000,Plusval Puente Azul,Verón, Bávaro, Punta Cana,Nueva,86,Residencial,6,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,108000

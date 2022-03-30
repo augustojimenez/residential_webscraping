@@ -1,0 +1,5 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-01-24,/apartamentos-venta-licey/1254451/,1,2,3,US$,70730,Olima Real Estate,NA,Licey, Santiago de los Caballeros,Nueva,90,Residencial,4,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,70730
+2022-01-24,/apartamentos-venta-licey/1254353/,1,2,3,US$,56800,Olima Real Estate,NA,Licey, Santiago de los Caballeros,Nueva,90,Residencial,3,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,56800
+2022-01-24,/apartamentos-venta-licey/1263409/,2,2,3,US$,122687,Olima Real Estate,NA,Licey, Santiago de los Caballeros,En Construcción,111,Residencial,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,122687
+2022-01-24,/apartamentos-venta-licey/1262049/,2,2.5,3,US$,120000,Vetas Soluciones Inmobiliarias,NA,Licey, Santiago de los Caballeros,En Construcción,111,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,120000

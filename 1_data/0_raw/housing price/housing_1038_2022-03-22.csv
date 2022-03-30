@@ -1,0 +1,16 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-03-22,/apartamentos-venta-playa-bonita/1268720/,1,2,2,US$,260000,Algonovo Real Estate,Playa Bonita, Las Terrenas, Samaná,En Planos,129,Residencial,3,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,260000
+2022-03-22,/apartamentos-venta-playa-bonita/1268732/,1,3,2,US$,310000,Algonovo Real Estate,Playa Bonita, Las Terrenas, Samaná,En Planos,NA,Residencial,3,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,310000
+2022-03-22,/apartamentos-venta-playa-bonita/1270560/,1,2,2,US$,260000,Olima Real Estate,Playa Bonita, Las Terrenas, Samaná,En Planos,154,Residencial,4,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,260000
+2022-03-22,/apartamentos-venta-playa-bonita/1268973/,1,2.5,2,US$,260000,Maravila Properties,Playa Bonita, Las Terrenas, Samaná,En Planos,126,Mixto,NA,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,260000
+2022-03-22,/apartamentos-venta-playa-bonita/1273952/,1,2,2,US$,289000,Tu Casa RD,Playa Bonita, Las Terrenas, Samaná,En Planos,130,Residencial,2,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,289000
+2022-03-22,/apartamentos-venta-playa-bonita/1268761/,1,2,2,US$,260000,Miguel Duarte Real Estate,Playa Bonita, Las Terrenas, Samaná,En Construcción,130,N/D,NA,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,260000
+2022-03-22,/apartamentos-venta-playa-bonita/1262668/,NA,3,3,US$,595000,Tropical Living,Playa Bonita, Las Terrenas, Samaná,Nueva,275,Residencial,NA,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,595000
+2022-03-22,/apartamentos-venta-playa-bonita/1269331/,2,2.5,2,US$,260000,Carmelia Suero,Playa Bonita, Las Terrenas, Samaná,En Construcción,130,Residencial,NA,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,260000
+2022-03-22,/apartamentos-venta-playa-bonita/1271296/,1,2,2,US$,289000,Kaza Inmobiliaria,Playa Bonita, Las Terrenas, Samaná,En Construcción,129,Residencial,NA,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,289000
+2022-03-22,/apartamentos-venta-playa-bonita/1268825/,2,2,2,US$,260000,Seekers Inmobiliaria,Playa Bonita, Las Terrenas, Samaná,En Construcción,127,Residencial,NA,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,260000
+2022-03-22,/apartamentos-venta-playa-bonita/1268954/,NA,2,2,US$,260000,Algonovo Real Estate,Playa Bonita, Las Terrenas, Samaná,En Construcción,129,Residencial,NA,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,260000
+2022-03-22,/apartamentos-venta-playa-bonita/1271396/,NA,NA,NA,US$,260000,SDQ Propiedades,Playa Bonita, Las Terrenas, Samaná,En Construcción,NA,Residencial,NA,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,260000
+2022-03-22,/apartamentos-venta-playa-bonita/1268982/,NA,2,2,US$,289000,KEYBROKERS INMOBILIARIA,Playa Bonita, Las Terrenas, Samaná,En Construcción,NA,Residencial,NA,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,289000
+2022-03-22,/apartamentos-venta-playa-bonita/1258601/,NA,4,4,US$,590000,BAEZ MUESES INMOBILIARIA,Playa Bonita, Las Terrenas, Samaná,Segundo Uso,300,Residencial,3,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,590000
+2022-03-22,/apartamentos-venta-playa-bonita/1266382/,1,NA,2,US$,310000,Seekers Inmobiliaria,Playa Bonita, Las Terrenas, Samaná,En Construcción,129,Residencial,3,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,310000

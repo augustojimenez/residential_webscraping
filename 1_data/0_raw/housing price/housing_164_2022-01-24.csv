@@ -1,0 +1,3 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-01-24,/apartamentos-venta-tamboril/1263388/,1,2,3,US$,72000,Olima Real Estate,Tamboril, Tamboril, Santiago de los Caballeros,Nueva,93,Residencial,4,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,72000
+2022-01-24,/apartamentos-venta-tamboril/1267554/,1,1.5,1,US$,170340,Seekers Inmobiliaria,NA,Tamboril, Santiago de los Caballeros,En Construcción,98,Residencial,NA,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,170340

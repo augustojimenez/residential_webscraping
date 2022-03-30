@@ -1,0 +1,3 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-03-22,/apartamentos-venta-la-vega/1266077/,1,2,3,US$,54000,Ciudad Inmobiliaria ,NA,La Vega, La Vega,En Planos,104,Residencial,NA,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,54000
+2022-03-22,/apartamentos-venta-la-vega/1272231/,2,2,3,US$,79000,Cabin Brokers,NA,La Vega, La Vega,En Planos,89,Residencial,1,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,79000

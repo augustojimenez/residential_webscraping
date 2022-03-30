@@ -1,0 +1,6 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-02-10,/apartamentos-venta-casa-de-campo/1264073/,1,2.5,2,US$,550000,Vivenzas Real Estate ,Casa De Campo, Casa De Campo, La Romana,Segundo Uso,155,Residencial,NA,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,550000
+2022-02-10,/apartamentos-venta-casa-de-campo/1267444/,1,2.5,2,US$,473000,Vivenzas Real Estate ,Casa De Campo, Casa De Campo, La Romana,Segundo Uso,155,Residencial,NA,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,473000
+2022-02-10,/apartamentos-venta-casa-de-campo/1224846/,NA,3.5,4,US$,625000,Paez Luxury Real Estate ,Casa De Campo, Casa De Campo, La Romana,Segundo Uso,208,Residencial,2,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,625000
+2022-02-10,/apartamentos-venta-casa-de-campo/1268344/,NA,2.5,2,US$,625000,Paez Luxury Real Estate ,Casa De Campo, Casa De Campo, La Romana,Segundo Uso,NA,Residencial,NA,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,625000
+2022-02-10,/apartamentos-venta-casa-de-campo/1267692/,NA,NA,3,US$,975000,Paez Luxury Real Estate ,Casa De Campo, Casa De Campo, La Romana,Remodelada,220,Residencial,NA,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,975000

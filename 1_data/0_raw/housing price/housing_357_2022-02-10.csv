@@ -1,0 +1,3 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-02-10,/apartamentos-venta-zona-universitario/1263820/,2,2.5,3,US$,196000,Vidalpe Inmobiliaria,Zona Universitario, Santo Domingo Centro (D.N.), Santo Domingo,En Construcción,155,Residencial,NA,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,196000
+2022-02-10,/apartamentos-venta-zona-universitario/1267355/,NA,1,1,US$,85238,"Constructora Cepeda Santana (CONCESA, S.R.L.)",Zona Universitario, Santo Domingo Centro (D.N.), Santo Domingo,En Planos,NA,N/D,2,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,85238

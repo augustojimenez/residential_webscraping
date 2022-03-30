@@ -1,0 +1,3 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-03-22,/apartamentos-venta-cerro-alto/1270556/,1,2,3,US$,120000,KW Norte Realty,Cerro Alto, Santiago, Santiago de los Caballeros,Segundo Uso,114,Residencial,1,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,120000
+2022-03-22,/apartamentos-venta-cerro-alto/1269778/,2,2,3,US$,130000,NOVES PROPERTIES,Cerro Alto, Santiago, Santiago de los Caballeros,En Construcción,120,Residencial,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,130000

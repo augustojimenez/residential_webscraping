@@ -1,0 +1,3 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-03-22,/apartamentos-venta-av--hispano-americano/1265702/,1,2.5,3,US$,144000,KW Norte Realty,Av. Hispano Americano, Santiago, Santiago de los Caballeros,En Planos,122,Residencial,5,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,144000
+2022-03-22,/apartamentos-venta-av--hispano-americano/1273356/,1,2,3,US$,84000,NOVES PROPERTIES,Av. Hispano Americano, Santiago, Santiago de los Caballeros,Nueva,89,Residencial,1,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,84000

@@ -1,0 +1,4 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-01-24,/apartamentos-venta-maranon-ii/1257669/,2,2.5,3,US$,103150,Vivenzas Real Estate ,Marañon II, Santo Domingo Norte, Santo Domingo,En Construcción,189,Residencial,NA,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,103150
+2022-01-24,/apartamentos-venta-maranon-ii/1257668/,2,2.5,3,US$,81400,Vivenzas Real Estate ,Marañon II, Santo Domingo Norte, Santo Domingo,En Construcción,125,Residencial,NA,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,81400
+2022-01-24,/apartamentos-venta-maranon-ii/1256489/,2,2.5,3,US$,69852,Grupo Nin Inmobiliario,Marañon II, Santo Domingo Norte, Santo Domingo,En Construcción,118,Residencial,1,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,69852

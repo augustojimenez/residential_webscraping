@@ -1,0 +1,4 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-03-22,/apartamentos-venta-av--winston-churchill/1270783/,1,1.5,1,US$,145651,Mr. Home Asesores Inmobiliarios,Av. Winston Churchill, Santo Domingo Centro (D.N.), Santo Domingo,NA,51,Residencial,NA,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,145651
+2022-03-22,/apartamentos-venta-av--winston-churchill/1255523/,1,1,1,US$,142795,DARAD Real Estate RD,Av. Winston Churchill, Santo Domingo Centro (D.N.), Santo Domingo,En Construcción,NA,Residencial,NA,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,142795
+2022-03-22,/apartamentos-venta-av--winston-churchill/1272581/,2,3.5,3,US$,190000,Habitame Inmobiliaria,Av. Winston Churchill, Santo Domingo Centro (D.N.), Santo Domingo,Segundo Uso,197,Residencial,3,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,190000

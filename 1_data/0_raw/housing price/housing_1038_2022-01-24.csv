@@ -1,0 +1,3 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-01-24,/apartamentos-venta-playa-bonita/1258601/,NA,4,4,US$,590000,BAEZ MUESES INMOBILIARIA,Playa Bonita, Las Terrenas, Samaná,Segundo Uso,300,Residencial,3,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,590000
+2022-01-24,/apartamentos-venta-playa-bonita/1262668/,NA,3,3,US$,595000,Tropical Living,Playa Bonita, Las Terrenas, Samaná,Nueva,275,Residencial,NA,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,595000

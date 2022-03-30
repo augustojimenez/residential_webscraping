@@ -1,0 +1,3 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-03-22,/apartamentos-venta-thomen/1251728/,NA,NA,NA,US$,138000,Vetas Soluciones Inmobiliarias,Thomen, Santiago, Santiago de los Caballeros,Nueva,NA,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,138000
+2022-03-22,/apartamentos-venta-thomen/1252728/,2,2,3,US$,135000,Vetas Soluciones Inmobiliarias,Thomen, Santiago, Santiago de los Caballeros,En Construcción,135,Residencial,NA,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,135000

@@ -1,0 +1,3 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-01-24,/apartamentos-venta-ensanche-isabelita/1262685/,2,2,3,RD$,6000000,Plusval Puente Azul,Ensanche Isabelita, Santo Domingo Este, Santo Domingo,Nueva,154,Residencial,1,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,102564.10256410256
+2022-01-24,/apartamentos-venta-ensanche-isabelita/1244938/,2,3.5,3,RD$,7890000,Inmobiliaria Grupal,Ensanche Isabelita, Santo Domingo Este, Santo Domingo,Nueva,146,Mixto,7,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,134871.79487179487

@@ -1,0 +1,3 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-01-24,/apartamentos-venta-higuey/1264258/,1,1,1,US$,300000,Mudate,NA,Higuey, Bávaro,Nueva,78,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,300000
+2022-01-24,/apartamentos-venta-higuey/1257197/,1,2,3,US$,38000,Mr. Home Asesores Inmobiliarios,NA,Higuey, Bávaro,Nueva,65,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,38000

@@ -1,0 +1,3 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-01-24,"/apartamentos-venta-km-17-la-gloria,-autopista-duarte/1268395/",NA,2,3,RD$,2600000,Remax Blu,KM 17 La Gloria, Autopista Duarte , Santo Domingo,Segundo Uso,100,Residencial,4,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,44444.444444444445
+2022-01-24,"/apartamentos-venta-km-17-la-gloria,-autopista-duarte/1267421/",1,2,3,RD$,2600000,Remax Blu,KM 17 La Gloria, Autopista Duarte , Santo Domingo,Nueva,NA,Residencial,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,44444.444444444445

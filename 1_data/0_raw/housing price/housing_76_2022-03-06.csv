@@ -1,0 +1,5 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-03-06,/apartamentos-venta-sosua/1238840/,2,2,3,US$,289000,Keller Williams Gold ,NA,Sosua, Puerto Plata,Segundo Uso,120,Residencial,1,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,289000
+2022-03-06,/apartamentos-venta-sosua/1254566/,2,2,3,US$,105000,Olima Real Estate,NA,Sosua, Puerto Plata,Segundo Uso,164,Residencial,2,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,105000
+2022-03-06,/apartamentos-venta-sosua/1268112/,2,2,2,US$,122000,Olima Real Estate,NA,Sosua, Puerto Plata,Nueva,81,Residencial,1,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,122000
+2022-03-06,/apartamentos-venta-sosua/1243239/,NA,2,2,US$,235000,Vetas Soluciones Inmobiliarias,Sosua, Sosua, Puerto Plata,Segundo Uso,50,Residencial,1,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,235000

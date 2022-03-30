@@ -1,0 +1,3 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-02-10,/apartamentos-venta-avenida-espana/1242441/,1,2,3,US$,95000,Bonillamultiservice,Avenida España, Santo Domingo Este, Santo Domingo,Nueva,100,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,95000
+2022-02-10,/apartamentos-venta-avenida-espana/1266753/,2,3.5,3,US$,162000,Premium Real Estate,Avenida España, Santo Domingo Este, Santo Domingo,En Planos,NA,Residencial,NA,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,162000

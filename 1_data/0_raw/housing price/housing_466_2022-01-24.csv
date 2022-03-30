@@ -1,0 +1,4 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-01-24,/apartamentos-venta-cansino/1267177/,1,2,3,RD$,4127750,Wendy Gómez,Cansino, Santo Domingo Este, Santo Domingo,En Construcción,127,Residencial,2,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,70559.82905982906
+2022-01-24,/apartamentos-venta-cansino/1267181/,1,2,3,RD$,3498000,Wendy Gómez,Cansino, Santo Domingo Este, Santo Domingo,En Construcción,85,Residencial,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,59794.8717948718
+2022-01-24,/apartamentos-venta-cansino/1267178/,1,2,3,RD$,3647750,Wendy Gómez,Cansino, Santo Domingo Este, Santo Domingo,En Construcción,85,Residencial,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,62354.70085470085

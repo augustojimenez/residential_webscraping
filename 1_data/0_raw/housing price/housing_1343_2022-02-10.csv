@@ -1,0 +1,3 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-02-10,"/apartamentos-venta-buena-vista,-arroyo-hondo/1266733/",2,2,NA,US$,160000,Seekers Inmobiliaria,Buena Vista, Arroyo Hondo , Santo Domingo Centro (D.N.),Nueva,NA,Residencial,3,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,160000
+2022-02-10,"/apartamentos-venta-buena-vista,-arroyo-hondo/1266483/",2,2,3,US$,160000,Seekers Inmobiliaria,Buena Vista, Arroyo Hondo , Santo Domingo Centro (D.N.),Nueva,NA,Residencial,4,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,160000

@@ -1,0 +1,4 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-03-21,/apartamentos-venta-av-enriquillo/1273691/,NA,3.5,3,US$,400000,Inmobiliaria Grupal,Av Enriquillo, Santo Domingo Centro (D.N.), Santo Domingo,Remodelada,315,Residencial,5,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,400000
+2022-03-21,/apartamentos-venta-av-enriquillo/1271865/,2,3.5,3,US$,408000,Inmobiliaria Grupal,Av Enriquillo, Santo Domingo Centro (D.N.), Santo Domingo,En Construcción,214,Residencial,NA,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,408000
+2022-03-21,/apartamentos-venta-av-enriquillo/1271484/,3,3.5,3,US$,570000,Grupo Nin Inmobiliario,Av Enriquillo, Santo Domingo Centro (D.N.), Santo Domingo,En Construcción,320,Residencial,NA,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,570000

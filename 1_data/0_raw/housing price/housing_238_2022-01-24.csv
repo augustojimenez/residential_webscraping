@@ -1,0 +1,3 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-01-24,/apartamentos-venta-honduras/1243083/,2,3.5,3,US$,188300,Seekers Inmobiliaria,Honduras, Santo Domingo Centro (D.N.), Santo Domingo,Nueva,129,Residencial,2,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,188300
+2022-01-24,/apartamentos-venta-honduras/1246329/,2,1,1,US$,78000,Domus Mea Caribe Inmobiliaria,Honduras, Santo Domingo Centro (D.N.), Santo Domingo,Nueva,51,Residencial,NA,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,78000

@@ -1,0 +1,7 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-02-10,/apartamentos-venta-villa-mella/1250017/,1,2,2,RD$,2250000,Ciudad Inmobiliaria ,Villa Mella, Santo Domingo Norte, Santo Domingo,En Construcción,70,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,38461.53846153846
+2022-02-10,/apartamentos-venta-villa-mella/1250021/,1,2,3,RD$,3200000,Ciudad Inmobiliaria ,Villa Mella, Santo Domingo Norte, Santo Domingo,En Construcción,89,Residencial,NA,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,54700.8547008547
+2022-02-10,/apartamentos-venta-villa-mella/1268847/,1,2,3,US$,98500,Premium Real Estate,Villa Mella, Santo Domingo Norte, Santo Domingo,Nueva,NA,Residencial,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,98500
+2022-02-10,/apartamentos-venta-villa-mella/1268453/,2,2.5,3,US$,132800,Premium Real Estate,Villa Mella, Santo Domingo Norte, Santo Domingo,Nueva,NA,Residencial,5,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,132800
+2022-02-10,/apartamentos-venta-villa-mella/1264353/,NA,1,1,US$,20000,MCR Asesoría Inmobiliaria,Villa Mella, Santo Domingo Norte, Santo Domingo,Segundo Uso,30,Residencial,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,20000
+2022-02-10,/apartamentos-venta-villa-mella/1250615/,1,2,3,RD$,2220000,Inmobiliaria Grupal,Villa Mella, Santo Domingo Norte, Santo Domingo,En Construcción,88,Residencial,NA,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,37948.717948717946

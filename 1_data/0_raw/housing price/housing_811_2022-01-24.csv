@@ -1,0 +1,4 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-01-24,/apartamentos-venta-monte-verde/1254326/,2,3,3,US$,153000,Olima Real Estate,Monte Verde, Santiago, Santiago de los Caballeros,Nueva,148,Residencial,2,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,153000
+2022-01-24,/apartamentos-venta-monte-verde/1257072/,2,2,3,US$,171000,Vetas Soluciones Inmobiliarias,Monte Verde, Santiago, Santiago de los Caballeros,En Construcción,130,N/D,NA,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,171000
+2022-01-24,/apartamentos-venta-monte-verde/1171702/,NA,2.5,3,US$,200000,Vetas Soluciones Inmobiliarias,Monte Verde, Santiago, Santiago de los Caballeros,Segundo Uso,186,Residencial,4,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,200000

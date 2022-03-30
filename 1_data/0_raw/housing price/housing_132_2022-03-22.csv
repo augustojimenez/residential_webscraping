@@ -1,0 +1,12 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-03-22,/apartamentos-venta-samana/1253074/,1,NA,2,US$,289000,Algonovo Real Estate,NA,Samana, Samaná,Nueva,127,Residencial,NA,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,289000
+2022-03-22,/apartamentos-venta-samana/1268986/,NA,2,2,US$,230000,Vivenzas Real Estate ,NA,Samana, Samaná,Segundo Uso,NA,Residencial,NA,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,230000
+2022-03-22,/apartamentos-venta-samana/1269101/,1,2,2,US$,289000,Republic Real State,Samana, Samana, Samaná,En Planos,131,Residencial,NA,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,289000
+2022-03-22,/apartamentos-venta-samana/1273073/,1,2,2,US$,175000,Tropical Living,NA,Samana, Samaná,Segundo Uso,135,Residencial,NA,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,175000
+2022-03-22,/apartamentos-venta-samana/1273118/,NA,1,1,US$,125000,Tropical Living,Samana, Samana, Samaná,Segundo Uso,89,Residencial,NA,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,125000
+2022-03-22,/apartamentos-venta-samana/1273123/,NA,2,2,US$,250000,Tropical Living,Samana, Samana, Samaná,Segundo Uso,131,Residencial,NA,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,250000
+2022-03-22,/apartamentos-venta-samana/1246828/,NA,3.5,3,US$,450000,Paez Luxury Real Estate ,NA,Samana, Samaná,Remodelada,250,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,450000
+2022-03-22,/apartamentos-venta-samana/1254831/,NA,2,2,US$,190000,Tu Casa RD,NA,Samana, Samaná,Nueva,143,Residencial,NA,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,190000
+2022-03-22,/apartamentos-venta-samana/1244904/,1,2,2,US$,280000,Tu Casa RD,NA,Samana, Samaná,Segundo Uso,153,Residencial,NA,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,280000
+2022-03-22,/apartamentos-venta-samana/1258027/,2,4.5,4,US$,675000,Elite Brokers,NA,Samana, Samaná,NA,330,Residencial,NA,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,675000
+2022-03-22,/apartamentos-venta-samana/1196730/,NA,NA,3,US$,270000,Abril Group SRL,NA,Samana, Samaná,Nueva,270,Residencial,4,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,270000

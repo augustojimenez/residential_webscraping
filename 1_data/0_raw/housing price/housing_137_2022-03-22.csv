@@ -1,0 +1,4 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-03-22,/apartamentos-venta-las-galeras/1265598/,1,1,1,US$,101710,Seekers Inmobiliaria,NA,Las Galeras, Samaná,En Construcción,45,Residencial,NA,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,101710
+2022-03-22,/apartamentos-venta-las-galeras/1262822/,1,1,1,US$,107665,Seekers Inmobiliaria,NA,Las Galeras, Samaná,Fideicomiso,46,Residencial,3,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,107665
+2022-03-22,/apartamentos-venta-las-galeras/1271148/,2,2,2,US$,184000,Seekers Inmobiliaria,Las Galeras, Las Galeras, Samaná,En Construcción,89,Residencial,NA,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,184000

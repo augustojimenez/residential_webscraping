@@ -1,0 +1,8 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-01-24,/apartamentos-venta-las-terrenas/1194177/,1,2.5,2,US$,290000,Dreamhome Real Estate,Las Terrenas, Las Terrenas, Samaná,Nueva,150,Comercial,1,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,290000
+2022-01-24,/apartamentos-venta-las-terrenas/1268090/,NA,NA,NA,US$,119000,CityMax Santo Domingo,Las Terrenas, Las Terrenas, Samaná,En Planos,NA,Residencial,NA,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,119000
+2022-01-24,/apartamentos-venta-las-terrenas/1268048/,NA,2.5,2,US$,180000,Tropical Living,Las Terrenas, Las Terrenas, Samaná,En Construcción,110,Residencial,NA,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,180000
+2022-01-24,/apartamentos-venta-las-terrenas/1262172/,1,3,3,US$,355000,Tropical Living,Las Terrenas, Las Terrenas, Samaná,Segundo Uso,155,Residencial,1,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,355000
+2022-01-24,/apartamentos-venta-las-terrenas/1267460/,1,1,1,US$,249000,Plusval Puente Azul,Las Terrenas, Las Terrenas, Samaná,En Planos,128,Residencial,3,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,249000
+2022-01-24,/apartamentos-venta-las-terrenas/1231536/,NA,3,3,US$,460000,Vetas Soluciones Inmobiliarias,Las Terrenas, Las Terrenas, Samaná,Segundo Uso,NA,Residencial,2,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,460000
+2022-01-24,/apartamentos-venta-las-terrenas/1239670/,2,2.5,2,US$,360000,Inmobiliaria Vita Home,Las Terrenas, Las Terrenas, Samaná,En Construcción,160,Residencial,NA,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,360000

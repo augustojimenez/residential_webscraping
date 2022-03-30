@@ -1,0 +1,3 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-02-10,/apartamentos-venta-moca/1252020/,1,2,3,US$,59800,NOVES PROPERTIES,Moca, Moca, Espaillat,En Construcción,82,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,59800
+2022-02-10,/apartamentos-venta-moca/1245283/,2,2.5,3,US$,75000,NOVES PROPERTIES,Moca, Moca, Espaillat,En Planos,NA,Residencial,2,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,75000

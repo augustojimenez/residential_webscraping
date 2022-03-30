@@ -1,0 +1,4 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-03-22,/apartamentos-venta-marbella-iii/1268807/,1,2,3,RD$,4400000,Centro Juridico Dra. Angela Rojas,Marbella III, Santo Domingo Este, Santo Domingo,Segundo Uso,115,Residencial,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,75213.67521367522
+2022-03-22,/apartamentos-venta-marbella-iii/1193449/,1,2.5,3,RD$,3800000,Centro Juridico Dra. Angela Rojas,Marbella III, Santo Domingo Este, Santo Domingo,Segundo Uso,106,Residencial,3,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,64957.26495726496
+2022-03-22,/apartamentos-venta-marbella-iii/301099/,1,2.5,3,US$,122000,Centro Juridico Dra. Angela Rojas,Marbella III, Santo Domingo Este, Santo Domingo,Nueva,103,Residencial,4,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,122000

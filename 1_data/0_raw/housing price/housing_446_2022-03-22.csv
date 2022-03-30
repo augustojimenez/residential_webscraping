@@ -1,0 +1,4 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-03-22,/apartamentos-venta-reparto-rosa/1273147/,2,2.5,3,RD$,5150000,Remax Metropolitana,Reparto Rosa, Las Colinas Del Oeste Santo Domingo Oeste, Santo Domingo,Segundo Uso,207,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,88034.18803418803
+2022-03-22,/apartamentos-venta-reparto-rosa/1271796/,1,2.5,2,RD$,3400000,Confibroker Inmobiliaria,Reparto Rosa, Las Colinas Del Oeste Santo Domingo Oeste, Santo Domingo,Nueva,103,Residencial,2,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,58119.65811965812
+2022-03-22,/apartamentos-venta-reparto-rosa/1262334/,2,2.5,3,RD$,5150000,Remax Metropolitana,Reparto Rosa, Las Colinas Del Oeste Santo Domingo Oeste, Santo Domingo,Nueva,207,Residencial,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,88034.18803418803

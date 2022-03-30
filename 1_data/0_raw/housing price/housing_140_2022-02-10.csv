@@ -1,0 +1,9 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-02-10,/apartamentos-venta-bajos-de-haina/1268001/,1,2,3,RD$,3271520,CityMax Santo Domingo,NA,Bajos De Haina, San Cristobal,Nueva,86,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,55923.418803418805
+2022-02-10,/apartamentos-venta-bajos-de-haina/1266166/,NA,2,3,RD$,3300000,Inmobiliaria Grupal,NA,Bajos De Haina, San Cristobal,Nueva,83,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,56410.256410256414
+2022-02-10,/apartamentos-venta-bajos-de-haina/1266969/,1,2,3,RD$,3300000,Inmobiliaria Grupal,NA,Bajos De Haina, San Cristobal,Nueva,NA,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,56410.256410256414
+2022-02-10,/apartamentos-venta-bajos-de-haina/1267714/,1,2,3,RD$,3600000,Inmobiliaria Grupal,NA,Bajos De Haina, San Cristobal,Nueva,83,Residencial,NA,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,61538.46153846154
+2022-02-10,/apartamentos-venta-bajos-de-haina/1269660/,2,2,3,US$,65585,AC INMOBILIARIA,NA,Bajos De Haina, San Cristobal,Fideicomiso,115,Residencial,NA,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,65585
+2022-02-10,/apartamentos-venta-bajos-de-haina/1266083/,1,2,3,RD$,3300000,Inmobiliaria Grupal,Bajos De Haina, Bajos De Haina, San Cristobal,Nueva,83,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,56410.256410256414
+2022-02-10,/apartamentos-venta-bajos-de-haina/1266169/,1,2,3,RD$,3300000,Inmobiliaria Grupal,NA,Bajos De Haina, San Cristobal,Nueva,84,Residencial,NA,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,56410.256410256414
+2022-02-10,/apartamentos-venta-bajos-de-haina/1268341/,1,2,3,RD$,3272000,CityMax Santo Domingo,Bajos De Haina, Bajos De Haina, San Cristobal,Nueva,86,Residencial,1,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,55931.62393162393

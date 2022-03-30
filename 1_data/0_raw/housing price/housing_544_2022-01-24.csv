@@ -1,0 +1,3 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-01-24,/apartamentos-venta-fernandez--oriental/1246076/,1,2,3,US$,86000,Mr. Home Asesores Inmobiliarios,Fernandez  Oriental, Santo Domingo Este, Santo Domingo,NA,110,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,86000
+2022-01-24,/apartamentos-venta-fernandez--oriental/1263958/,1,2,3,RD$,4950000,Mr. Home Asesores Inmobiliarios,Fernandez  Oriental, Santo Domingo Este, Santo Domingo,NA,123,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,84615.38461538461

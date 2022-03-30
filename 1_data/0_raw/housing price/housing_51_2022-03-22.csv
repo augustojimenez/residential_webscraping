@@ -1,0 +1,7 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-03-22,/apartamentos-venta-boca-chica/1266577/,2,3.5,4,US$,220000,Remax Metropolitana,NA,Boca Chica, Santo Domingo,Segundo Uso,818,Residencial,NA,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,220000
+2022-03-22,/apartamentos-venta-boca-chica/1268452/,NA,2,2,US$,100000,Remax Plus,NA,Boca Chica, Santo Domingo,Segundo Uso,64,Residencial,1,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,100000
+2022-03-22,/apartamentos-venta-boca-chica/1269755/,1,1,2,US$,53500,Mr. Home Asesores Inmobiliarios,NA,Boca Chica, Santo Domingo,Nueva,NA,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,53500
+2022-03-22,/apartamentos-venta-boca-chica/1253059/,1,1,1,US$,72500,Algonovo Real Estate,NA,Boca Chica, Santo Domingo,En Construcción,66,Residencial,2,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,72500
+2022-03-22,/apartamentos-venta-boca-chica/1271247/,NA,2,3,RD$,2799000,Premier Real Estate,NA,Boca Chica, Santo Domingo,En Construcción,90,Residencial,NA,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,47846.153846153844
+2022-03-22,/apartamentos-venta-boca-chica/1273237/,1,2,2,US$,240000,Seekers Inmobiliaria,NA,Boca Chica, Santo Domingo,Segundo Uso,82,Residencial,3,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,240000

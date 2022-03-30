@@ -1,0 +1,4 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-03-21,/apartamentos-venta-puerto-plata/1273901/,2,2,2,US$,145600,The Crestman Group ,NA,Puerto Plata, Puerto Plata,En Construcción,142,Residencial,NA,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,145600
+2022-03-21,/apartamentos-venta-puerto-plata/1273899/,2,2,3,US$,129000,The Crestman Group ,NA,Puerto Plata, Puerto Plata,En Construcción,243,Residencial,NA,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,129000
+2022-03-21,/apartamentos-venta-puerto-plata/1273894/,1,2,3,US$,150000,The Crestman Group ,NA,Puerto Plata, Puerto Plata,En Construcción,111,Residencial,NA,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,150000

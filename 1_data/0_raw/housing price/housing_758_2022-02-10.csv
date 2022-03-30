@@ -1,0 +1,4 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-02-10,/apartamentos-venta-llanos-de-gurabo/1269861/,2,2,3,US$,115000,NOVES PROPERTIES,LLanos de Gurabo, Santiago, Santiago de los Caballeros,En Construcción,132,Residencial,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,115000
+2022-02-10,/apartamentos-venta-llanos-de-gurabo/1261432/,1,2,3,US$,115000,KW Norte Realty,LLanos de Gurabo, Santiago, Santiago de los Caballeros,En Construcción,126,Residencial,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,115000
+2022-02-10,/apartamentos-venta-llanos-de-gurabo/1269035/,1,2,3,US$,150000,NOVES PROPERTIES,LLanos de Gurabo, Santiago, Santiago de los Caballeros,En Planos,125,Residencial,6,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,150000

@@ -1,3 +1,5 @@
+rm(list = ls())
+
 # Libraries
 library(dplyr)
 library(readr)
@@ -7,7 +9,7 @@ library(stringi)
 # Creating empty data frame
 df <- data.frame(province = character(),
                  id = character(),
-                 descripcion = character())
+                 description = character())
 
 # There are 31 provinces in the Dominican Republic, but supercasas.com considers
 # municipalities as provinces, depending on its importance. The province ID does
@@ -24,7 +26,7 @@ for (province in 1:50) {
     # Verifying whether the URL contains a list of neighborhoods, the loop will
     # continue only if it contains a list
     empty_list <- stri_detect_fixed(html_text(list_html), "Selecciona")
-    if(empty_list){
+    if (empty_list) {
         next
     }
     
@@ -52,4 +54,4 @@ df <- df %>%
     filter(description != "Todos los sectores") %>%
     distinct(id, .keep_all = TRUE)
 
-write.csv(df, "./1_data/0_raw/neighborhoods.csv",  row.names = FALSE)
+write.csv(df, "../1_data/0_raw/neighborhoods.csv",  row.names = FALSE)

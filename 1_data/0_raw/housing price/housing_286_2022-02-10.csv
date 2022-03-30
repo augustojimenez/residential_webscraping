@@ -1,0 +1,4 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-02-10,/apartamentos-venta-pantoja/1249725/,1,2.5,4,US$,69000,Icas,Pantoja, Santo Domingo Centro (D.N.), Santo Domingo,En Construcción,85,Residencial,1,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,69000
+2022-02-10,/apartamentos-venta-pantoja/1264848/,1,2,3,US$,46000,Habitame Inmobiliaria,Pantoja, Santo Domingo Centro (D.N.), Santo Domingo,En Planos,76,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,46000
+2022-02-10,/apartamentos-venta-pantoja/1246394/,1,2.5,3,US$,65500,Megacasa RD,Pantoja, Santo Domingo Centro (D.N.), Santo Domingo,Nueva,85,Residencial,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,65500

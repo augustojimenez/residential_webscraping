@@ -1,0 +1,4 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-01-24,/apartamentos-venta-urb--narcisa-ii/1265677/,2,3,3,US$,96000,Vivenzas Real Estate ,Urb. Narcisa II, Santo Domingo Este, Santo Domingo,En Construcción,111,Residencial,NA,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,96000
+2022-01-24,/apartamentos-venta-urb--narcisa-ii/1251453/,1,2,3,US$,90000,Mr. Home Asesores Inmobiliarios,Urb. Narcisa II, Santo Domingo Este, Santo Domingo,NA,108,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,90000
+2022-01-24,/apartamentos-venta-urb--narcisa-ii/1262839/,2,2.5,3,US$,96000,Plusval Puente Azul,Urb. Narcisa II, Santo Domingo Este, Santo Domingo,En Construcción,111,Residencial,2,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,96000

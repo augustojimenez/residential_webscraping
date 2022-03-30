@@ -1,0 +1,26 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-01-24,/apartamentos-venta-bavaro/1261674/,1,1,1,US$,75000,Republic Real State,Bávaro, Bávaro, Punta Cana,En Planos,49,Residencial,2,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,75000
+2022-01-24,/apartamentos-venta-bavaro/1264161/,NA,1,1,US$,126499,Bienvenida Rubén Jiménez,Bávaro, Bávaro, Punta Cana,En Construcción,53,Mixto,NA,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,126499
+2022-01-24,/apartamentos-venta-bavaro/1249481/,1,2,2,US$,280000,Seekers Inmobiliaria,Bávaro, Bávaro, Punta Cana,En Construcción,130,Residencial,NA,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,280000
+2022-01-24,/apartamentos-venta-bavaro/1268169/,2,3.5,3,US$,475000,CityMax Santo Domingo,Bávaro, Bávaro, Punta Cana,En Construcción,233,Residencial,1,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,475000
+2022-01-24,/apartamentos-venta-bavaro/1265563/,2,NA,2,US$,239000,Capital Home,Bávaro, Bávaro, Punta Cana,En Construcción,122,Residencial,NA,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,239000
+2022-01-24,/apartamentos-venta-bavaro/1266042/,1,1.5,1,US$,57800,Algonovo Real Estate,Bávaro, Bávaro, Punta Cana,Nueva,50,Residencial,NA,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,57800
+2022-01-24,/apartamentos-venta-bavaro/1237759/,NA,1,1,US$,150000,Algonovo Real Estate,Bávaro, Bávaro, Punta Cana,Segundo Uso,70,Residencial,NA,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,150000
+2022-01-24,/apartamentos-venta-bavaro/1266121/,2,2,2,US$,275000,Dreamhome Real Estate,Bávaro, Bávaro, Punta Cana,En Construcción,147,Mixto,NA,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,275000
+2022-01-24,/apartamentos-venta-bavaro/1254437/,1,2,1,US$,91855,Kaza Inmobiliaria,Bávaro, Bávaro, Punta Cana,En Construcción,64,Residencial,NA,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,91855
+2022-01-24,/apartamentos-venta-bavaro/1235010/,2,2,2,US$,265000,Mr. Home Asesores Inmobiliarios,Bávaro, Bávaro, Punta Cana,NA,148,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,265000
+2022-01-24,/apartamentos-venta-bavaro/1225072/,2,2,3,US$,234000,Mr. Home Asesores Inmobiliarios,Bávaro, Bávaro, Punta Cana,Nueva,128,Residencial,5,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,234000
+2022-01-24,/apartamentos-venta-y-alquiler-bavaro/1250426/,4,1,1,US$,180000,Mr. Home Asesores Inmobiliarios,Bávaro, Bávaro, Punta Cana,Nueva,478,Residencial,2,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,180000
+2022-01-24,/apartamentos-venta-bavaro/1234744/,1,1,1,US$,54000,Mr. Home Asesores Inmobiliarios,Bávaro, Bávaro, Punta Cana,Nueva,54,Residencial,NA,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,54000
+2022-01-24,/apartamentos-venta-bavaro/1229937/,1,1,1,US$,134500,Mr. Home Asesores Inmobiliarios,Bávaro, Bávaro, Punta Cana,En Construcción,73,Residencial,NA,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,134500
+2022-01-24,/apartamentos-venta-bavaro/1248111/,1,2,2,US$,69800,Mr. Home Asesores Inmobiliarios,Bávaro, Bávaro, Punta Cana,Nueva,69,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,69800
+2022-01-24,/apartamentos-venta-bavaro/1248491/,2,2,3,US$,110000,Mr. Home Asesores Inmobiliarios,Bávaro, Bávaro, Punta Cana,Nueva,130,Residencial,NA,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,110000
+2022-01-24,/apartamentos-venta-bavaro/1255260/,1,2,2,US$,160000,Mr. Home Asesores Inmobiliarios,Bávaro, Bávaro, Punta Cana,Nueva,93,Residencial,1,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,160000
+2022-01-24,/apartamentos-venta-bavaro/1255293/,1,1,1,US$,99000,Mr. Home Asesores Inmobiliarios,Bávaro, Bávaro, Punta Cana,En Construcción,87,Residencial,2,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,99000
+2022-01-24,/apartamentos-venta-bavaro/1255036/,1,3.5,3,US$,209000,Mr. Home Asesores Inmobiliarios,Bávaro, Bávaro, Punta Cana,Nueva,115,Residencial,NA,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,209000
+2022-01-24,/apartamentos-venta-bavaro/1265474/,1,2.5,2,US$,259000,Inmobiliaria Grupo DYZ,Bávaro, Bávaro, Punta Cana,En Construcción,136,Residencial,2,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,259000
+2022-01-24,/apartamentos-venta-bavaro/1264863/,1,2,1,US$,67892,Keller Williams Gold,Bávaro, Bávaro, Punta Cana,En Construcción,64,Residencial,NA,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,67892
+2022-01-24,/apartamentos-venta-bavaro/1267107/,2,2,2,US$,70220,Seekers Inmobiliaria,Bávaro, Bávaro, Punta Cana,Nueva,70,Residencial,NA,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,70220
+2022-01-24,/apartamentos-venta-bavaro/1254129/,NA,NA,NA,US$,215000,BAEZ MUESES INMOBILIARIA,Bávaro, Bávaro, Punta Cana,En Construcción,108,Residencial,NA,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,215000
+2022-01-24,/apartamentos-venta-bavaro/1260099/,1,2,2,US$,185000,Remax Metropolitana,Bávaro, Bávaro, Punta Cana,En Construcción,105,Residencial,2,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,185000
+2022-01-24,/apartamentos-venta-bavaro/1211098/,2,3,3,US$,96900,New Home Constructora Inmobiliaria,Bávaro, Bávaro, Punta Cana,En Construcción,94,Residencial,NA,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,96900

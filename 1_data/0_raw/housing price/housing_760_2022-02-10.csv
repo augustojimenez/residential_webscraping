@@ -1,0 +1,4 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-02-10,/apartamentos-venta-los-alamos/1242680/,2,2.5,3,US$,250000,KW Norte Realty,los Alamos, Santiago, Santiago de los Caballeros,Segundo Uso,147,Residencial,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,250000
+2022-02-10,/apartamentos-venta-los-alamos/1259113/,2,2.5,3,US$,135000,KW Norte Realty,los Alamos, Santiago, Santiago de los Caballeros,Segundo Uso,158,Residencial,4,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,135000
+2022-02-10,/apartamentos-venta-los-alamos/1267806/,1,2,3,US$,101000,Vetas Soluciones Inmobiliarias,los Alamos, Santiago, Santiago de los Caballeros,En Construcción,93,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,101000

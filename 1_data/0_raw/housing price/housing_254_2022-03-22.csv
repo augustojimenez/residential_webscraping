@@ -1,0 +1,4 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-03-22,/apartamentos-venta-gala/1265994/,1,NA,3,RD$,6200000,Inmobiliaria Grupal,Gala, Santo Domingo Centro (D.N.), Santo Domingo,Nueva,114,Residencial,4,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,105982.90598290598
+2022-03-22,/apartamentos-venta-gala/1273514/,1,2.5,2,US$,148400,Mr. Home Asesores Inmobiliarios,Gala, Santo Domingo Centro (D.N.), Santo Domingo,NA,102,Residencial,NA,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,148400
+2022-03-22,/apartamentos-venta-gala/1255449/,2,2,3,US$,130000,Tu Casa RD,Gala, Santo Domingo Centro (D.N.), Santo Domingo,Nueva,163,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,130000

@@ -1,0 +1,7 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-03-21,/apartamentos-venta-playa-dorada/1231520/,2,2.5,2,US$,145600,NOVES PROPERTIES,Playa Dorada, Playa Dorada, Puerto Plata,En Construcción,112,Residencial,2,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,145600
+2022-03-21,/apartamentos-venta-playa-dorada/1253913/,1,3,3,US$,265000,ZE Bienes Raices,NA,Playa Dorada, Puerto Plata,NA,140,Residencial,2,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,265000
+2022-03-21,/apartamentos-venta-playa-dorada/1215009/,NA,NA,2,US$,239400,Vetas Soluciones Inmobiliarias,NA,Playa Dorada, Puerto Plata,Nueva,126,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,239400
+2022-03-21,/apartamentos-venta-playa-dorada/1257538/,NA,2,2,US$,225000,Vetas Soluciones Inmobiliarias,NA,Playa Dorada, Puerto Plata,Segundo Uso,124,Residencial,3,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,225000
+2022-03-21,/apartamentos-venta-playa-dorada/1270922/,1,1,1,US$,120000,Vetas Soluciones Inmobiliarias,NA,Playa Dorada, Puerto Plata,En Construcción,44,Residencial,NA,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,120000
+2022-03-21,/apartamentos-venta-playa-dorada/1253961/,1,2,2,US$,215000,ZE Bienes Raices,NA,Playa Dorada, Puerto Plata,Remodelada,78,Residencial,1,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,215000

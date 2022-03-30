@@ -1,0 +1,7 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-02-10,/apartamentos-venta-guavaberry/1268019/,1,2,2,US$,210000,CityMax Santo Domingo,Guavaberry, San Pedro De Macoris, San Pedro De Macoris,Nueva,111,Residencial,NA,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,210000
+2022-02-10,/apartamentos-venta-guavaberry/1223513/,4,2.5,3,US$,335000,Mudate,Guavaberry, San Pedro De Macoris, San Pedro De Macoris,Nueva,273,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,335000
+2022-02-10,/apartamentos-venta-san-pedro-de-macoris/1255632/,1,1.5,1,US$,80900,Seekers Inmobiliaria,NA,San Pedro De Macoris, San Pedro De Macoris,En Construcción,53,Residencial,NA,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,80900
+2022-02-10,/apartamentos-venta-guavaberry/1260903/,NA,1,1,US$,130000,Tropical Living,Guavaberry, San Pedro De Macoris, San Pedro De Macoris,Segundo Uso,77,Residencial,NA,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,130000
+2022-02-10,/apartamentos-venta-metro-country-club/1268886/,2,3.5,3,US$,230000,Estrella Inmobiliaria ,Metro Country Club, San Pedro De Macoris, San Pedro De Macoris,Nueva,NA,Mixto,NA,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,230000
+2022-02-10,/apartamentos-venta-metro-country-club/1263854/,NA,2,2,US$,160000,KEYBROKERS INMOBILIARIA,Metro Country Club, San Pedro De Macoris, San Pedro De Macoris,Segundo Uso,NA,Residencial,NA,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,160000

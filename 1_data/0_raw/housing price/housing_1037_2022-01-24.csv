@@ -1,0 +1,7 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-01-24,/apartamentos-venta-el-portillo/1262615/,NA,1.5,1,US$,135000,Premium Real Estate,El portillo, Las Terrenas, Samaná,En Construcción,50,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,135000
+2022-01-24,/apartamentos-venta-el-portillo/1263705/,NA,NA,NA,US$,140000,Premium Real Estate,El portillo, Las Terrenas, Samaná,En Construcción,NA,Residencial,NA,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,140000
+2022-01-24,/apartamentos-venta-el-portillo/1263701/,NA,NA,NA,US$,140000,Premium Real Estate,El portillo, Las Terrenas, Samaná,En Construcción,NA,Residencial,NA,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,140000
+2022-01-24,/apartamentos-venta-el-portillo/1264025/,NA,NA,2,US$,360000,Premium Real Estate,El portillo, Las Terrenas, Samaná,En Construcción,NA,Mixto,NA,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,360000
+2022-01-24,/apartamentos-venta-el-portillo/1252818/,2,1.5,1,US$,59999,Inmobiliaria Grupal,El portillo, Las Terrenas, Samaná,Nueva,78,Mixto,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,59999
+2022-01-24,/apartamentos-venta-el-portillo/1224565/,NA,2.5,2,US$,248400,New Home Constructora Inmobiliaria,El portillo, Las Terrenas, Samaná,En Planos,NA,Residencial,NA,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,248400

@@ -1,0 +1,5 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-03-21,/apartamentos-venta-av--monumental/1199790/,1,2,2,US$,70000,Inmobiliaria Grupal,Av. Monumental, Santo Domingo Centro (D.N.), Santo Domingo,En Construcción,75,Residencial,3,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,70000
+2022-03-21,/apartamentos-venta-av--monumental/1273600/,2,2,3,RD$,2950000,Inmobiliaria Grupal,Av. Monumental, Santo Domingo Centro (D.N.), Santo Domingo,Segundo Uso,70,Residencial,NA,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,50427.35042735043
+2022-03-21,/apartamentos-venta-av--monumental/1272218/,2,2,3,RD$,2950000,Inmobiliaria Grupal,Av. Monumental, Santo Domingo Centro (D.N.), Santo Domingo,Segundo Uso,70,Residencial,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,50427.35042735043
+2022-03-21,/apartamentos-venta-av--monumental/1242026/,1,NA,2,RD$,3395000,Tu Casa RD,Av. Monumental, Santo Domingo Centro (D.N.), Santo Domingo,Nueva,95,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,58034.18803418803

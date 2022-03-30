@@ -1,0 +1,3 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-03-22,/apartamentos-venta-avenida-espana/1272045/,2,2.5,2,US$,135000,InDisArq Group,Avenida España, Santo Domingo Este, Santo Domingo,En Planos,153,Mixto,NA,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,135000
+2022-03-22,/apartamentos-venta-avenida-espana/1271613/,2,1.5,1,US$,85000,InDisArq Group,Avenida España, Santo Domingo Este, Santo Domingo,En Planos,82,Comercial,NA,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,85000

@@ -1,0 +1,4 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-02-10,/apartamentos-venta-altos-de-costa-verde/1268410/,2,3,3,US$,205000,Inmobiliaria Grupal,Altos de Costa Verde, Las Colinas Del Oeste Santo Domingo Oeste, Santo Domingo,Nueva,252,Residencial,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,205000
+2022-02-10,/apartamentos-venta-altos-de-costa-verde/1267750/,2,3,3,US$,205000,Inmobiliaria Grupal,Altos de Costa Verde, Las Colinas Del Oeste Santo Domingo Oeste, Santo Domingo,Nueva,252,Residencial,4,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,205000
+2022-02-10,/apartamentos-venta-altos-de-costa-verde/1267747/,1,2,2,US$,100000,Inmobiliaria Grupal,Altos de Costa Verde, Las Colinas Del Oeste Santo Domingo Oeste, Santo Domingo,Nueva,105,Residencial,4,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,100000

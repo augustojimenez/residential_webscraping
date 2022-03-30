@@ -1,0 +1,18 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-02-10,/apartamentos-venta-la-romana/1259557/,1,2,3,US$,65000,Premium Real Estate,NA,La Romana, La Romana,En Construcción,NA,Residencial,NA,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,65000
+2022-02-10,/apartamentos-venta-la-romana/1259556/,1,2,3,US$,60000,Premium Real Estate,NA,La Romana, La Romana,En Construcción,NA,Residencial,NA,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,60000
+2022-02-10,/apartamentos-venta-la-romana/1246689/,1,2,3,US$,117000,Remax Plus,NA,La Romana, La Romana,Nueva,NA,Residencial,NA,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,117000
+2022-02-10,/apartamentos-venta-la-romana/1261756/,1,2,3,US$,68999,Republic Real State,NA,La Romana, La Romana,En Planos,80,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,68999
+2022-02-10,/apartamentos-venta-la-romana/1259664/,1,2,3,US$,65000,Premium Real Estate,NA,La Romana, La Romana,En Planos,NA,Mixto,NA,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,65000
+2022-02-10,/apartamentos-venta-la-romana/1259599/,1,2,3,US$,65000,Premium Real Estate,NA,La Romana, La Romana,En Construcción,86,Residencial,NA,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,65000
+2022-02-10,/apartamentos-venta-la-romana/1252228/,NA,2.5,2,US$,365000,Algonovo Real Estate,NA,La Romana, La Romana,Segundo Uso,155,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,365000
+2022-02-10,/apartamentos-venta-la-romana/1268227/,1,2,3,US$,65000,Premium Real Estate,NA,La Romana, La Romana,Nueva,89,Residencial,4,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,65000
+2022-02-10,/apartamentos-venta-la-romana/1260221/,1,2,3,US$,68500,Premium Real Estate,NA,La Romana, La Romana,Nueva,87,Residencial,NA,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,68500
+2022-02-10,/apartamentos-venta-la-romana/1259657/,1,2,3,US$,68500,Premium Real Estate,NA,La Romana, La Romana,En Planos,87,Residencial,NA,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,68500
+2022-02-10,/apartamentos-venta-la-romana/1255243/,NA,1,1,US$,175000,Premium Real Estate,NA,La Romana, La Romana,En Construcción,71,Residencial,NA,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,175000
+2022-02-10,/apartamentos-venta-la-romana/1248848/,2,2.5,2,US$,200000,Genao Fondeur Consultores Bienes Raíces ,NA,La Romana, La Romana,Segundo Uso,125,Residencial,1,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,200000
+2022-02-10,/apartamentos-venta-la-romana/1259707/,1,2,3,US$,65000,Premium Real Estate,NA,La Romana, La Romana,En Construcción,87,Mixto,NA,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,65000
+2022-02-10,/apartamentos-venta-la-romana/1268092/,NA,NA,NA,US$,65000,CityMax Santo Domingo,NA,La Romana, La Romana,En Construcción,NA,Residencial,NA,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,65000
+2022-02-10,/apartamentos-venta-la-romana/1265330/,1,2,3,US$,69999,Megacasa RD,NA,La Romana, La Romana,Nueva,80,Residencial,NA,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,69999
+2022-02-10,/apartamentos-venta-la-romana/1264769/,NA,NA,NA,US$,60000,Megacasa RD,NA,La Romana, La Romana,Nueva,NA,Residencial,NA,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,60000
+2022-02-10,/apartamentos-venta-la-romana/1262657/,1,2,3,RD$,3500000,Plusval Puente Azul,NA,La Romana, La Romana,Segundo Uso,106,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,59829.05982905983

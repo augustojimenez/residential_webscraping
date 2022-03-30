@@ -1,0 +1,4 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-02-10,/apartamentos-venta-lucerna/1268157/,2,4,6,RD$,10900000,Remax Metropolitana,Lucerna, Santo Domingo Este, Santo Domingo,Nueva,276,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,186324.7863247863
+2022-02-10,/apartamentos-venta-lucerna/1267001/,2,2.5,3,RD$,5700000,Plusval Puente Azul,Lucerna, Santo Domingo Este, Santo Domingo,Nueva,107,Residencial,NA,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,97435.89743589744
+2022-02-10,/apartamentos-venta-lucerna/1266246/,1,2.5,3,RD$,5700000,Probrokers Inmobiliaria Inprob S.R.L,Lucerna, Santo Domingo Este, Santo Domingo,En Construcción,125,Residencial,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,97435.89743589744

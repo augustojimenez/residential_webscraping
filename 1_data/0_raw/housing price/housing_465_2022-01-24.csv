@@ -1,0 +1,5 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-01-24,/apartamentos-venta-vista-hermosa/1262477/,2,2.5,3,US$,115000,Ciudad Inmobiliaria ,Vista Hermosa, Santo Domingo Este, Santo Domingo,En Construcción,135,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,115000
+2022-01-24,/apartamentos-venta-vista-hermosa/1245672/,2,3,3,US$,115000,Techo Lindo,Vista Hermosa, Santo Domingo Este, Santo Domingo,En Planos,120000,Residencial,NA,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,115000
+2022-01-24,/apartamentos-venta-vista-hermosa/1251405/,2,2,3,RD$,5700000,Mr. Home Asesores Inmobiliarios,Vista Hermosa, Santo Domingo Este, Santo Domingo,NA,118,Residencial,NA,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,97435.89743589744
+2022-01-24,/apartamentos-venta-vista-hermosa/1256692/,1,2,2,RD$,5245000,Inverfisa,Vista Hermosa, Santo Domingo Este, Santo Domingo,En Planos,110,Residencial,NA,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,89658.11965811966

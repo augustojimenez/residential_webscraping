@@ -1,0 +1,6 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-03-22,/apartamentos-venta-honduras/1273444/,NA,NA,NA,US$,104000,Inmobiliaria Grupal,Honduras, Santo Domingo Centro (D.N.), Santo Domingo,Segundo Uso,NA,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,104000
+2022-03-22,/apartamentos-venta-honduras/1273615/,2,2,2,US$,140000,Juriluz,Honduras, Santo Domingo Centro (D.N.), Santo Domingo,Nueva,128,Residencial,2,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,140000
+2022-03-22,/apartamentos-venta-honduras/1273384/,2,2,2,US$,140000,Juriluz,Honduras, Santo Domingo Centro (D.N.), Santo Domingo,Nueva,128,Residencial,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,140000
+2022-03-22,/apartamentos-venta-honduras/1272895/,2,2,2,US$,140000,Juriluz,Honduras, Santo Domingo Centro (D.N.), Santo Domingo,Nueva,128,Residencial,2,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,140000
+2022-03-22,/apartamentos-venta-honduras/1253898/,2,2.5,3,US$,165000,Nilda Peña,Honduras, Santo Domingo Centro (D.N.), Santo Domingo,Nueva,142,Residencial,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,165000

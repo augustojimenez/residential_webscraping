@@ -1,0 +1,5 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-01-24,/apartamentos-venta-las-praderas/1261057/,1,2,3,RD$,6650000,Remax Metropolitana,Las Praderas, Santo Domingo Centro (D.N.), Santo Domingo,Segundo Uso,151,Residencial,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,113675.21367521367
+2022-01-24,/apartamentos-venta-las-praderas/1255970/,2,2.5,3,US$,349500,Top International Realty,Las Praderas, Santo Domingo Centro (D.N.), Santo Domingo,Segundo Uso,185,Residencial,8,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,349500
+2022-01-24,/apartamentos-venta-las-praderas/1264157/,2,2,3,RD$,6500000,Remax Metropolitana,Las Praderas, Santo Domingo Centro (D.N.), Santo Domingo,Segundo Uso,140,Residencial,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,111111.11111111111
+2022-01-24,/apartamentos-venta-las-praderas/1264162/,1,2,3,US$,117000,Remax Metropolitana,Las Praderas, Santo Domingo Centro (D.N.), Santo Domingo,Segundo Uso,151,Residencial,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,117000

@@ -1,0 +1,3 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-03-22,/apartamentos-venta-monte-adentro/1270968/,2,2.5,3,US$,107500,Seekers Inmobiliaria,Monte Adentro, Santiago, Santiago de los Caballeros,En Construcción,100,Residencial,NA,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,107500
+2022-03-22,/apartamentos-venta-monte-adentro/1270494/,2,2.5,3,US$,107500,Seekers Inmobiliaria,Monte Adentro, Santiago, Santiago de los Caballeros,En Construcción,100,Residencial,NA,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,107500

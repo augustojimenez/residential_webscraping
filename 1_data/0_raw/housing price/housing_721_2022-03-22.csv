@@ -1,0 +1,6 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-03-22,/apartamentos-venta-gurabo/1269021/,1,2,2,US$,120000,KW Norte Realty,Gurabo, Santiago, Santiago de los Caballeros,En Planos,80,Residencial,2,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,120000
+2022-03-22,/apartamentos-venta-gurabo/1273812/,1,2,3,US$,82000,Olima Real Estate,Gurabo, Santiago, Santiago de los Caballeros,En Planos,87,Residencial,4,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,82000
+2022-03-22,/apartamentos-venta-gurabo/1270577/,2,2,3,US$,160000,Olima Real Estate,Gurabo, Santiago, Santiago de los Caballeros,Nueva,115,Residencial,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,160000
+2022-03-22,/apartamentos-venta-gurabo/1252274/,1,2,2,US$,48500,Ciudad Inmobiliaria ,Gurabo, Santiago, Santiago de los Caballeros,En Construcción,63,Residencial,NA,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,48500
+2022-03-22,/apartamentos-venta-gurabo/1254433/,1,2,3,US$,74000,Kaza Inmobiliaria,Gurabo, Santiago, Santiago de los Caballeros,En Construcción,87,Residencial,NA,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,74000

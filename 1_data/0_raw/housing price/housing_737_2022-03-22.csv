@@ -1,0 +1,4 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-03-22,/apartamentos-venta-jardines-del-norte/1256462/,1,2,3,US$,95000,NOVES PROPERTIES,Jardines del Norte, Santiago, Santiago de los Caballeros,En Construcción,101,Residencial,4,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,95000
+2022-03-22,/apartamentos-venta-jardines-del-norte/1263408/,1,2,3,US$,92500,Olima Real Estate,Jardines del Norte, Santiago, Santiago de los Caballeros,Nueva,90,Residencial,4,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,92500
+2022-03-22,/apartamentos-venta-jardines-del-norte/1263406/,1,2,3,US$,92000,Olima Real Estate,Jardines del Norte, Santiago, Santiago de los Caballeros,Nueva,90,Residencial,4,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,92000

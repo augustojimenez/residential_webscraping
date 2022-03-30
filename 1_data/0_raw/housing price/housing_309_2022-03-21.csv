@@ -1,0 +1,4 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-03-21,/apartamentos-venta-ciudad/1257418/,1,NA,1,US$,129000,Seekers Inmobiliaria,Ciudad, Santo Domingo Centro (D.N.), Santo Domingo,En Construcción,55,Residencial,NA,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,129000
+2022-03-21,/apartamentos-venta-ciudad/1269926/,3,3.5,3,US$,355000,Global Realty Group,Ciudad, Santo Domingo Centro (D.N.), Santo Domingo,Segundo Uso,217,Residencial,8,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,355000
+2022-03-21,/apartamentos-venta-ciudad/1269931/,4,4.5,4,US$,425000,Global Realty Group,Ciudad, Santo Domingo Centro (D.N.), Santo Domingo,Segundo Uso,400,Residencial,NA,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,425000

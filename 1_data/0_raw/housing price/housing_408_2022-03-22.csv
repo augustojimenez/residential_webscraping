@@ -1,0 +1,5 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-03-22,/apartamentos-venta-ciudad/1257052/,1,2.5,4,US$,59000,Icas,Ciudad, Las Colinas Del Oeste Santo Domingo Oeste, Santo Domingo,Nueva,85,N/D,3,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,59000
+2022-03-22,/apartamentos-venta-ciudad/1262555/,1,2,3,US$,89000,Mudate,Ciudad, Las Colinas Del Oeste Santo Domingo Oeste, Santo Domingo,Nueva,160,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,89000
+2022-03-22,/apartamentos-venta-ciudad/1259510/,1,2.5,3,US$,101000,Mudate,Ciudad, Las Colinas Del Oeste Santo Domingo Oeste, Santo Domingo,Nueva,96,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,101000
+2022-03-22,/apartamentos-venta-ciudad/1257394/,2,2.5,2,US$,143200,Boyter Island Properties SRL,Ciudad, Las Colinas Del Oeste Santo Domingo Oeste, Santo Domingo,En Planos,115,Mixto,8,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,143200

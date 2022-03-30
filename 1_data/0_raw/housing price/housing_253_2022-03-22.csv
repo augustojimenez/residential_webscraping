@@ -1,0 +1,5 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-03-22,/apartamentos-venta-y-alquiler-los-rios/1266318/,5,3.5,3,US$,790000,Inmobiliaria Grupo DYZ,Los Rios, Santo Domingo Centro (D.N.), Santo Domingo,Segundo Uso,510,Residencial,2,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,790000
+2022-03-22,/apartamentos-venta-los-rios/1271984/,1,1.5,1,US$,89500,Inmobiliaria Inversión Segura RD ,Los Rios, Santo Domingo Centro (D.N.), Santo Domingo,En Construcción,57,Residencial,NA,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,89500
+2022-03-22,/apartamentos-venta-los-rios/1269617/,1,1.5,1,US$,85000,Premium Real Estate,Los Rios, Santo Domingo Centro (D.N.), Santo Domingo,En Construcción,58,Residencial,NA,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,85000
+2022-03-22,/apartamentos-venta-los-rios/1270909/,1,1,1,RD$,4295000,Plusval Puente Azul,Los Rios, Santo Domingo Centro (D.N.), Santo Domingo,Segundo Uso,59,Residencial,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,73418.80341880342

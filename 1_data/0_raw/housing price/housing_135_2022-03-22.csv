@@ -1,0 +1,3 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-03-22,/apartamentos-venta-el-portillo/1264051/,1,1.5,1,US$,140000,Premium Real Estate,NA,El Portillo, Samaná,En Planos,NA,N/D,NA,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,140000
+2022-03-22,/apartamentos-venta-el-portillo/1273887/,NA,1,1,US$,149000,The Crestman Group ,NA,El Portillo, Samaná,En Construcción,NA,Residencial,NA,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,149000

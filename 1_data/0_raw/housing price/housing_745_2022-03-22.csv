@@ -1,0 +1,4 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-03-22,/apartamentos-venta-la-loteria/1271687/,1,2,3,US$,136500,NOVES PROPERTIES,La Loteria, Santiago, Santiago de los Caballeros,Nueva,130,Residencial,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,136500
+2022-03-22,/apartamentos-venta-la-loteria/1270966/,1,2.5,3,US$,129500,Seekers Inmobiliaria,La Loteria, Santiago, Santiago de los Caballeros,Nueva,130,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,129500
+2022-03-22,/apartamentos-venta-la-loteria/1246508/,2,2,3,US$,129500,Vetas Soluciones Inmobiliarias,La Loteria, Santiago, Santiago de los Caballeros,En Construcción,130,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,129500

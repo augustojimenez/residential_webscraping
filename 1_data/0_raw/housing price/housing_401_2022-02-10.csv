@@ -1,0 +1,3 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-02-10,/apartamentos-venta-av--monumental/1267265/,1,2,2,US$,65000,Inmobiliaria Grupal,Av. Monumental, Las Colinas Del Oeste Santo Domingo Oeste, Santo Domingo,Nueva,75,Residencial,3,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,65000
+2022-02-10,/apartamentos-venta-av--monumental/1248367/,1,2,3,US$,3295000,Remax Metropolitana,Av. Monumental, Las Colinas Del Oeste Santo Domingo Oeste, Santo Domingo,En Construcción,80,Residencial,NA,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,3295000

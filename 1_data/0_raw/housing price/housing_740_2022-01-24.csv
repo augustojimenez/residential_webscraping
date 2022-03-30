@@ -1,0 +1,5 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-01-24,/apartamentos-venta-villa-olga/1242639/,2,2.5,2,US$,215000,KW Norte Realty,Villa Olga, Santiago, Santiago de los Caballeros,En Planos,111,Residencial,8,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,215000
+2022-01-24,/apartamentos-venta-villa-olga/1256500/,2,3.5,3,US$,350000,ZE Bienes Raices,Villa Olga, Santiago, Santiago de los Caballeros,NA,217,Residencial,NA,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,350000
+2022-01-24,/apartamentos-venta-villa-olga/1224942/,2,3.5,3,US$,221000,Vetas Soluciones Inmobiliarias,Villa Olga, Santiago, Santiago de los Caballeros,En Construcción,132,Residencial,NA,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,221000
+2022-01-24,/apartamentos-venta-villa-olga/1176184/,NA,2.5,3,US$,175000,Vetas Soluciones Inmobiliarias,Villa Olga, Santiago, Santiago de los Caballeros,Nueva,125,Residencial,NA,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,175000

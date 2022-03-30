@@ -1,0 +1,3 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-03-22,/apartamentos-venta-sybaris-residences/1273411/,1,1.5,1,US$,190000,Inmobiliaria Grupal,Sybaris Residences, Juan Dolio, San Pedro De Macoris,Segundo Uso,NA,Residencial,2,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,190000
+2022-03-22,/apartamentos-venta-y-alquiler-sybaris-residences/414584/,2,2,2,US$,230000,Proyecto Inmobiliario Sybaris Residences,Sybaris Residences, Juan Dolio, San Pedro De Macoris,Nueva,140,Residencial,NA,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,230000

@@ -1,0 +1,4 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-03-22,/apartamentos-venta-melia-bavaro/1253081/,2,NA,NA,US$,184000,Algonovo Real Estate,Meliá Bávaro, Bávaro, Punta Cana,En Planos,NA,Residencial,3,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,184000
+2022-03-22,/apartamentos-venta-melia-bavaro/1245403/,2,3.5,3,US$,1155000,Algonovo Real Estate,Meliá Bávaro, Bávaro, Punta Cana,En Construcción,460,Residencial,4,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,1155000
+2022-03-22,/apartamentos-venta-melia-bavaro/1228547/,2,2,2,US$,199000,Inmobiliaria Famosa,Meliá Bávaro, Bávaro, Punta Cana,Nueva,124,Residencial,2,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,199000

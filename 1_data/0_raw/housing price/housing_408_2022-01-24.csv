@@ -1,0 +1,7 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-01-24,/apartamentos-venta-ciudad/1268390/,1,NA,3,RD$,3700000,Remax Independencia,Ciudad, Las Colinas Del Oeste Santo Domingo Oeste, Santo Domingo,Segundo Uso,106,Residencial,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,63247.86324786325
+2022-01-24,/apartamentos-venta-ciudad/1257052/,1,2.5,2,US$,42000,Icas,Ciudad, Las Colinas Del Oeste Santo Domingo Oeste, Santo Domingo,Nueva,55,N/D,3,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,42000
+2022-01-24,/apartamentos-venta-ciudad/1262555/,1,2,3,US$,89000,Mudate,Ciudad, Las Colinas Del Oeste Santo Domingo Oeste, Santo Domingo,Nueva,160,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,89000
+2022-01-24,/apartamentos-venta-ciudad/1259510/,1,2.5,3,US$,101000,Mudate,Ciudad, Las Colinas Del Oeste Santo Domingo Oeste, Santo Domingo,Nueva,96,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,101000
+2022-01-24,/apartamentos-venta-ciudad/1256059/,1,2.5,3,RD$,4350000,Inmobiliaria Grupal,Ciudad, Las Colinas Del Oeste Santo Domingo Oeste, Santo Domingo,Nueva,93,Residencial,3,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,74358.97435897436
+2022-01-24,/apartamentos-venta-ciudad/1267041/,2,2,3,US$,74100,Remax Blu,Ciudad, Las Colinas Del Oeste Santo Domingo Oeste, Santo Domingo,En Construcción,91,Residencial,8,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,74100

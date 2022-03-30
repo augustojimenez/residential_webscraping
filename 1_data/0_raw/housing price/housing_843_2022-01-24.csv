@@ -1,0 +1,3 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-01-24,/apartamentos-venta-jardines-del-este/1254351/,2,2,3,US$,190000,Olima Real Estate,Jardines del Este, Santiago, Santiago de los Caballeros,Segundo Uso,150,Residencial,6,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,190000
+2022-01-24,/apartamentos-venta-jardines-del-este/1143972/,2,2.5,3,US$,215000,ZE Bienes Raices,Jardines del Este, Santiago, Santiago de los Caballeros,En Planos,153,Residencial,2,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,215000

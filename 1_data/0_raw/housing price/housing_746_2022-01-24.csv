@@ -1,0 +1,3 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-01-24,/apartamentos-venta-la-rinconada/1231515/,2,3.5,3,US$,303800,NOVES PROPERTIES,La Rinconada, Santiago, Santiago de los Caballeros,En Planos,196,Residencial,3,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,303800
+2022-01-24,/apartamentos-venta-la-rinconada/1255399/,NA,2.5,2,US$,175000,Vetas Soluciones Inmobiliarias,La Rinconada, Santiago, Santiago de los Caballeros,Nueva,99,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,175000

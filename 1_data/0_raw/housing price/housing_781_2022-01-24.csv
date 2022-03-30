@@ -1,0 +1,4 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-01-24,/apartamentos-venta-rincon-largo/1235201/,1,2,2,US$,251275,NOVES PROPERTIES,Rincon Largo, Santiago, Santiago de los Caballeros,En Construcción,109,Residencial,10,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,251275
+2022-01-24,/apartamentos-venta-rincon-largo/1251676/,NA,2.5,2,US$,215000,Vetas Soluciones Inmobiliarias,Rincon Largo, Santiago, Santiago de los Caballeros,Nueva,100,Residencial,NA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,215000
+2022-01-24,/apartamentos-venta-rincon-largo/1235237/,NA,2,2,US$,202644,Vetas Soluciones Inmobiliarias,Rincon Largo, Santiago, Santiago de los Caballeros,Nueva,113,Residencial,NA,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,202644

@@ -1,0 +1,4 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-03-22,/apartamentos-venta-enrriquillo/1273543/,3,3,3,US$,570000,Habitame Inmobiliaria,Enrriquillo, Santo Domingo Centro (D.N.), Santo Domingo,Nueva,320,Residencial,NA,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,570000
+2022-03-22,/apartamentos-venta-enrriquillo/1260943/,3,3.5,3,US$,483850,Estrella Inmobiliaria ,Enrriquillo, Santo Domingo Centro (D.N.), Santo Domingo,Nueva,320,Residencial,NA,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,483850
+2022-03-22,/apartamentos-venta-enrriquillo/1242734/,3,3.5,3,US$,483850,HouseLink,Enrriquillo, Santo Domingo Centro (D.N.), Santo Domingo,En Construcción,320,Residencial,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,483850

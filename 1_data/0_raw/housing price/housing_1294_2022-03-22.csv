@@ -1,0 +1,5 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-03-22,/apartamentos-venta-los-hidalgos/1269033/,1,2,3,US$,64600,DOBLE ALTURA REAL ESTATE SRL,Los Hidalgos, Las Colinas Del Oeste Santo Domingo Oeste, Santo Domingo,Nueva,89,Residencial,NA,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,64600
+2022-03-22,/apartamentos-venta-los-hidalgos/1273295/,1,2,3,US$,73800,Inmobiliaria Grupal,Los Hidalgos, Las Colinas Del Oeste Santo Domingo Oeste, Santo Domingo,Nueva,82,Residencial,1,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,73800
+2022-03-22,/apartamentos-venta-los-hidalgos/1250920/,1,2,3,US$,57000,Premium Real Estate,Los Hidalgos, Las Colinas Del Oeste Santo Domingo Oeste, Santo Domingo,En Construcción,86,Residencial,NA,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,57000
+2022-03-22,/apartamentos-venta-los-hidalgos/1249838/,1,2,3,US$,58000,Premium Real Estate,Los Hidalgos, Las Colinas Del Oeste Santo Domingo Oeste, Santo Domingo,En Construcción,86,Residencial,NA,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,58000

@@ -1,0 +1,4 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-02-10,/apartamentos-venta-jarabacoa/1263244/,3,3.5,3,US$,327000,Tropical Living,NA,Jarabacoa, La Vega,NA,262,Residencial,NA,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,327000
+2022-02-10,/apartamentos-venta-jarabacoa/1254260/,2,2,3,US$,108000,Cabin Brokers,NA,Jarabacoa, La Vega,En Construcción,115,Residencial,4,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,108000
+2022-02-10,/apartamentos-venta-jarabacoa/1254213/,1,2,3,RD$,3700000,Cabin Brokers,NA,Jarabacoa, La Vega,En Construcción,90,Residencial,4,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,63247.86324786325

@@ -1,0 +1,3 @@
+date,id,parking,bathrooms,bedrooms,currency,price,seller,neighborhood,city,province,status,area,usage,story,planta,lift,pool,pozo,terraza,lobby,balcon,jacuzzi,gimnasio,price.usd
+2022-03-22,/apartamentos-venta-los-prados-de-san-luis/1272968/,3,2.5,3,RD$,12000000,Inmobiliaria Grupal,Los Prados de San Luis, Santo Domingo Este, Santo Domingo,Segundo Uso,310,Residencial,7,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,205128.20512820513
+2022-03-22,/apartamentos-venta-los-prados-de-san-luis/1269460/,1,2.5,2,US$,131000,Time Homes Inmobiliaria ,Los Prados de San Luis, Santo Domingo Este, Santo Domingo,En Construcción,75,Residencial,NA,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,131000

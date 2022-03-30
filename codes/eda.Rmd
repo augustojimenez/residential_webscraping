@@ -1,0 +1,109 @@
+---
+title: "EDA: Housing Bella Vista, Santo Domingo"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r importing-data}
+rm(list = ls())
+
+library(ggplot2)
+library(dplyr)
+library(stargazer)
+```
+
+```{r}
+housing <- readRDS("../data/housing.rds") %>%
+    filter(id != "/apartamentos-venta-bella-vista/1228951/",
+           id != "/apartamentos-venta-bella-vista/1229552/",
+           id != "/apartamentos-venta-bella-vista/1226706/",
+           id != "/apartamentos-venta-bella-vista/1211605/",
+           id != "/apartamentos-venta-bella-vista-norte/1205999/") %>%
+    select(parking:bedrooms, parking:bedrooms, neighborhood, status, planta:gimnasio, everything()) %>%
+    mutate(price.usd = price.usd/1000,
+           across(parking:gimnasio, as.factor))
+
+# Solving listings with incorrect currency
+housing[housing$id == "/apartamentos-venta-bella-vista/1232966/", "currency"] = "RD$"
+housing[housing$id == "/apartamentos-venta-bella-vista/1232966/", "price.usd"] = 4700/58.5
+housing[housing$id == "/apartamentos-venta-bella-vista/1234385/", "currency"] = "RD$"
+housing[housing$id == "/apartamentos-venta-bella-vista/1234385/", "price.usd"] = 7200/58.5
+housing[housing$id == "/apartamentos-venta-bella-vista-norte/1208666/", "currency"] = "US$"
+housing[housing$id == "/apartamentos-venta-bella-vista-norte/1208666/", "price.usd"] = 180
+```
+
+
+
+```{r}
+set.seed(123)
+`%nin%` <- Negate(`%in%`)
+
+housing <- housing %>%
+    mutate(area2 = area^2,
+           area.bedroom = area/as.numeric(bedrooms)) %>%
+    filter(area <= 600)
+
+train <- sample(1:nrow(housing),
+                 round(nrow(housing)) * 0.7)
+test <- 1:nrow(housing) %nin% train
+
+housing.train <- housing[train,]
+housing.test <- housing[test,]
+```
+
+```{r}
+housing %>%
+    ggplot(aes(y = price.usd, x = area)) +
+    geom_point() +
+    geom_smooth()
+
+housing %>%
+    ggplot(aes(y = price.usd, fill = lift)) +
+    geom_boxplot()
+
+housing %>%
+    ggplot(aes(y = price.usd, fill = pool)) +
+    geom_boxplot()
+
+housing %>%
+    ggplot(aes(y = price.usd, fill = gimnasio)) +
+    geom_boxplot()
+```
+
+```{r}
+# Model 1
+lm.fit1 = lm(formula = log(price.usd) ~ area + area2 + parking + pool + gimnasio + balcon*area + 0,
+             data = housing.train)
+
+# Model 2
+lm.fit2 = lm(formula = log(price.usd) ~ area + parking + area*bathrooms + pool + gimnasio + balcon*area + 0,
+             data = housing.train)
+
+# Model 3
+lm.fit3 = lm(formula = log(price.usd) ~ area + parking + pool + gimnasio + balcon*area + 0,
+             data = housing.train)
+
+# Model 4
+lm.fit4 = lm(formula = log(price.usd) ~ area + area2 + area*parking + area.bedroom + pool + gimnasio + balcon*area + 0,
+             data = housing.train)
+
+# Model 4
+lm.fit5 = lm(formula = log(price.usd) ~ area + area2 + area*parking + area.bedroom + pool + gimnasio + balcon*area + 0,
+             data = housing.train)
+
+stargazer(lm.fit1, lm.fit2, lm.fit3, lm.fit4, type = "text")
+
+# Random fit https://www.supercasas.com/apartamentos-venta-bella-vista-norte/1249620/
+nuevo <- data.frame(area = 138,
+                    parking = as.factor(2), 
+                    bedrooms = as.factor(2), 
+                    bathrooms = as.factor(2.5), 
+                    pool = as.factor(TRUE), 
+                    gimnasio = as.factor(TRUE), 
+                    balcon = as.factor(TRUE))
+exp(predict(lm.fit2, nuevo, interval = "confidence"))
+# Actual price = 185,000
+```
